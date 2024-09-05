@@ -1,0 +1,9 @@
+<map id="WeatherData::WriteDataToFile" name="WeatherData::WriteDataToFile">
+<area shape="rect" id="node1" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="5,132,204,159"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a70c734e710bb8b9ab85234cfe473e640" title="Calculate the average of a vector of values." alt="" coords="512,19,719,45"/>
+<area shape="rect" id="node3" href="$class_weather_data.html#a078589fe5dbbbdf691d79de21647b49f" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="252,41,464,82"/>
+<area shape="rect" id="node4" href="$class_weather_data.html#aa152e19ce16c31e7c60e23355f85d4aa" title="Calculate the total of a vector of MonthData objects based on a specific member function." alt="" coords="264,107,452,133"/>
+<area shape="rect" id="node5" href="$class_weather_data.html#a2d7718e7730ef87f31d57f3ebacbe683" title="Get the current year from the system time." alt="" coords="260,157,456,184"/>
+<area shape="rect" id="node6" href="$class_weather_data.html#a8ad51a569e62121140f2adea65ea75ac" title="Get the month name based on its index (1&#45;12)." alt="" coords="259,208,457,235"/>
+<area shape="rect" id="node7" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="279,259,437,285"/>
+</map>

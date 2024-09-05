@@ -1,0 +1,7 @@
+<map id="DataProcessor::CalculateAverage" name="DataProcessor::CalculateAverage">
+<area shape="rect" id="node1" title="Calculate the average of a vector of values." alt="" coords="465,80,636,121"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#af94987f5cff2fb68393795d1b595bad7" title="Calculate the sample standard deviation of a vector of values." alt="" coords="245,51,415,92"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#a0bfe24391d91f8fee183c8d2ae2d4157" title="Print the average temperature and standard deviation for each month of a specified year to the consol..." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#a2cad13e1757df0fd5b71e618401aa99a" title="Print the average wind speed and standard deviation for a specified month and year to the console." alt="" coords="5,84,195,125"/>
+<area shape="rect" id="node5" href="$class_data_processor.html#a9e18b3b2c48160dc242fceddcf4e4088" title="Write wind speed, temperature, and solar radiation data for each month of a specified year to a CSV f..." alt="" coords="243,168,417,209"/>
+</map>

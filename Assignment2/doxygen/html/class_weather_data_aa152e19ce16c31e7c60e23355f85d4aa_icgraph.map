@@ -1,0 +1,7 @@
+<map id="WeatherData::CalculateTotal" name="WeatherData::CalculateTotal">
+<area shape="rect" id="node1" title="Calculate the total of a vector of MonthData objects based on a specific member function." alt="" coords="603,31,791,57"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a2cf2099298d415187accfd9ecd6e6a41" title="Print the total solar radiation for each month for a given year." alt="" coords="337,5,555,32"/>
+<area shape="rect" id="node3" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="347,56,545,83"/>
+<area shape="rect" id="node4" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,56,289,83"/>
+<area shape="rect" id="node5" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,56,91,83"/>
+</map>

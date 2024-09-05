@@ -1,0 +1,5 @@
+<map id="DataProcessor::CalculateStandardDeviation" name="DataProcessor::CalculateStandardDeviation">
+<area shape="rect" id="node1" title="Calculate the sample standard deviation of a vector of values." alt="" coords="243,39,413,80"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#a0bfe24391d91f8fee183c8d2ae2d4157" title="Print the average temperature and standard deviation for each month of a specified year to the consol..." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#a2cad13e1757df0fd5b71e618401aa99a" title="Print the average wind speed and standard deviation for a specified month and year to the console." alt="" coords="5,71,195,112"/>
+</map>

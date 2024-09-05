@@ -1,0 +1,6 @@
+<map id="WeatherData::CalculateSPCC" name="WeatherData::CalculateSPCC">
+<area shape="rect" id="node1" title="Calculate and print the Sample Pearson Correlation Coefficient (sPCC) between wind speed and solar ra..." alt="" coords="5,56,201,83"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a70c734e710bb8b9ab85234cfe473e640" title="Calculate the average of a vector of values." alt="" coords="249,5,456,32"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#acd2c4cb0e2fe8d51de77b810ce2435d4" title="Get the map that contains all weather data." alt="" coords="271,56,435,83"/>
+<area shape="rect" id="node4" href="$class_weather_data.html#a8ad51a569e62121140f2adea65ea75ac" title="Get the month name based on its index (1&#45;12)." alt="" coords="254,107,451,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DataProcessor::GetMonthName" name="DataProcessor::GetMonthName">
+<area shape="rect" id="node1" title="Get the month name based on its index (1&#45;12)." alt="" coords="243,111,449,138"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#a0bfe24391d91f8fee183c8d2ae2d4157" title="Print the average temperature and standard deviation for each month of a specified year to the consol..." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#a2cad13e1757df0fd5b71e618401aa99a" title="Print the average wind speed and standard deviation for a specified month and year to the console." alt="" coords="5,71,195,112"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#adb527fadb9e071eb8c15dc839ac3e5c8" title="Print the total solar radiation for each month of a specified year to the console." alt="" coords="13,136,187,177"/>
+<area shape="rect" id="node5" href="$class_data_processor.html#a9e18b3b2c48160dc242fceddcf4e4088" title="Write wind speed, temperature, and solar radiation data for each month of a specified year to a CSV f..." alt="" coords="13,201,187,243"/>
+</map>

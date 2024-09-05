@@ -1,0 +1,5 @@
+<map id="Menu::IsValidYear" name="Menu::IsValidYear">
+<area shape="rect" id="node1" title="Check if a given year is valid (i.e. within the range of available data and not in the future)." alt="" coords="337,5,465,32"/>
+<area shape="rect" id="node2" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,5,289,32"/>
+<area shape="rect" id="node3" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,5,91,32"/>
+</map>

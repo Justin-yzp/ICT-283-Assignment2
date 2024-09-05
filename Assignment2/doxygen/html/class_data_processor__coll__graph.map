@@ -1,0 +1,4 @@
+<map id="DataProcessor" name="DataProcessor">
+<area shape="rect" id="node1" title="A class that extends the DataLoader functionality to process and analyze weather data." alt="" coords="5,145,205,384"/>
+<area shape="rect" id="node2" href="$class_data_loader.html" title="A class that represents a data loader that reads weather data from files and stores them in a map str..." alt="" coords="51,5,159,97"/>
+</map>

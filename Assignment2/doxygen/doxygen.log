@@ -1,0 +1,3 @@
+C:/Users/yinzh/Desktop/Assignment2 (yin_zhanpeng)/Assignment2/WeatherData.h:39: warning: argument 'values' of command @param is not found in the argument list of WeatherData::CalculateAverage(const std::vector< double > &data)
+C:/Users/yinzh/Desktop/Assignment2 (yin_zhanpeng)/Assignment2/WeatherData.h:45: warning: The following parameter of WeatherData::CalculateAverage(const std::vector< double > &data) is not documented:
+  parameter 'data'

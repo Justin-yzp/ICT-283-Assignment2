@@ -1,0 +1,6 @@
+<map id="DataProcessor::PrintSolarRadiation" name="DataProcessor::PrintSolarRadiation">
+<area shape="rect" id="node1" title="Print the total solar radiation for each month of a specified year to the console." alt="" coords="5,64,179,105"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#a1a688ff17ef013bf7b362c05697c8d51" title="Calculate the total of a vector of values." alt="" coords="245,5,415,47"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#ad8c7b4be8c05766ec86548c90494dd72" title="Get the month name based on its index (1&#45;12)." alt="" coords="227,71,433,98"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="251,122,409,149"/>
+</map>

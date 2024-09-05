@@ -1,0 +1,4 @@
+<map id="WeatherData::LoadData" name="WeatherData::LoadData">
+<area shape="rect" id="node1" title="Load data from the specified file and insert it into the BST." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node2" href="$class_data_loader.html#af44b7b6acfc673fdfa9ee5b3a8f0b1b5" title="Load data from a file and insert it into the map." alt="" coords="215,5,365,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WeatherData::PrintAverageWindSpeed" name="WeatherData::PrintAverageWindSpeed">
+<area shape="rect" id="node1" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="337,5,516,47"/>
+<area shape="rect" id="node2" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,13,289,39"/>
+<area shape="rect" id="node3" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,13,91,39"/>
+</map>

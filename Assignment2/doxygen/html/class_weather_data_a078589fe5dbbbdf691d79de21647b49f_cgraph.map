@@ -1,0 +1,4 @@
+<map id="WeatherData::CalculateStandardDeviation" name="WeatherData::CalculateStandardDeviation">
+<area shape="rect" id="node1" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a70c734e710bb8b9ab85234cfe473e640" title="Calculate the average of a vector of values." alt="" coords="265,13,472,39"/>
+</map>

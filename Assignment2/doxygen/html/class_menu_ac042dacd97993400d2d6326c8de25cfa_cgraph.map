@@ -1,0 +1,16 @@
+<map id="Menu::ExecuteChoice" name="Menu::ExecuteChoice">
+<area shape="rect" id="node1" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="5,315,156,342"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a8ac06a32d094a84a563d01d779e074e0" title="Calculate and print the Sample Pearson Correlation Coefficient (sPCC) between wind speed and solar ra..." alt="" coords="205,90,401,117"/>
+<area shape="rect" id="node6" href="$class_weather_data.html#a2d7718e7730ef87f31d57f3ebacbe683" title="Get the current year from the system time." alt="" coords="459,463,655,490"/>
+<area shape="rect" id="node7" href="$class_menu.html#a4e35fda75e3beb1024322cb354a58468" title="Check if a given month is valid (i.e. within the range of 1&#45;12)." alt="" coords="235,417,372,443"/>
+<area shape="rect" id="node8" href="$class_menu.html#a5daafc8de105c4ea4dcb586ae33b551b" title="Check if a given year is valid (i.e. within the range of available data and not in the future)." alt="" coords="239,467,367,494"/>
+<area shape="rect" id="node9" href="$class_weather_data.html#aa3ae4d5cbfe9c39fa0452c7232be3883" title="Print the average temperature and standard deviation for each month for a given year." alt="" coords="214,184,393,225"/>
+<area shape="rect" id="node12" href="$class_weather_data.html#ae6072b404d5ecad2c0340a883ba03adb" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="214,249,393,291"/>
+<area shape="rect" id="node13" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="204,315,403,342"/>
+<area shape="rect" id="node3" href="$class_weather_data.html#a70c734e710bb8b9ab85234cfe473e640" title="Calculate the average of a vector of values." alt="" coords="711,202,917,229"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#acd2c4cb0e2fe8d51de77b810ce2435d4" title="Get the map that contains all weather data." alt="" coords="475,42,639,69"/>
+<area shape="rect" id="node5" href="$class_weather_data.html#a8ad51a569e62121140f2adea65ea75ac" title="Get the month name based on its index (1&#45;12)." alt="" coords="458,143,655,170"/>
+<area shape="rect" id="node10" href="$class_weather_data.html#a078589fe5dbbbdf691d79de21647b49f" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="451,195,663,236"/>
+<area shape="rect" id="node11" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="478,311,635,338"/>
+<area shape="rect" id="node14" href="$class_weather_data.html#aa152e19ce16c31e7c60e23355f85d4aa" title="Calculate the total of a vector of MonthData objects based on a specific member function." alt="" coords="463,413,651,439"/>
+</map>

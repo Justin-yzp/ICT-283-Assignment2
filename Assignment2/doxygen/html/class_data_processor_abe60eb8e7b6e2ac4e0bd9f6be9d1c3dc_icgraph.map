@@ -1,0 +1,13 @@
+<map id="DataProcessor::Search" name="DataProcessor::Search">
+<area shape="rect" id="node1" title="Search for data by month and year." alt="" coords="603,242,760,269"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#a0bfe24391d91f8fee183c8d2ae2d4157" title="Print the average temperature and standard deviation for each month of a specified year to the consol..." alt="" coords="351,5,541,47"/>
+<area shape="rect" id="node3" href="$class_weather_data.html#aa3ae4d5cbfe9c39fa0452c7232be3883" title="Print the average temperature and standard deviation for each month for a given year." alt="" coords="357,71,535,112"/>
+<area shape="rect" id="node6" href="$class_data_processor.html#a2cad13e1757df0fd5b71e618401aa99a" title="Print the average wind speed and standard deviation for a specified month and year to the console." alt="" coords="351,136,541,177"/>
+<area shape="rect" id="node7" href="$class_weather_data.html#ae6072b404d5ecad2c0340a883ba03adb" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="357,201,535,243"/>
+<area shape="rect" id="node8" href="$class_data_processor.html#adb527fadb9e071eb8c15dc839ac3e5c8" title="Print the total solar radiation for each month of a specified year to the console." alt="" coords="359,267,533,308"/>
+<area shape="rect" id="node9" href="$class_weather_data.html#a2cf2099298d415187accfd9ecd6e6a41" title="Print the total solar radiation for each month for a given year." alt="" coords="337,333,555,359"/>
+<area shape="rect" id="node10" href="$class_data_processor.html#a9e18b3b2c48160dc242fceddcf4e4088" title="Write wind speed, temperature, and solar radiation data for each month of a specified year to a CSV f..." alt="" coords="359,384,533,425"/>
+<area shape="rect" id="node11" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="347,450,545,477"/>
+<area shape="rect" id="node4" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,209,289,235"/>
+<area shape="rect" id="node5" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,209,91,235"/>
+</map>

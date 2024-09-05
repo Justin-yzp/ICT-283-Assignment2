@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1687678872 source:c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\date.cpp
+	"DATE.h"
+	<iostream>
+
+1687856175 c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\date.h
+
+1690621965 source:c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<cmath>
+	<ctime>
+	<iomanip>
+	"WeatherData.h"
+	"BST.h"
+
+1690621772 c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\weatherdata.h
+	<vector>
+	<string>
+	"BST.h"
+
+1690621013 c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\bst.h
+	<vector>
+	<map>
+
+1687678813 source:c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\time.cpp
+	"TIME.h"
+	<iostream>
+
+1687856225 c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\time.h
+
+1690620248 source:c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\bst.cpp
+	"BST.h"
+	"WeatherData.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690621736 source:c:\users\ashle\onedrive\desktop\ict283-assignment2-2023\assignment2\weatherdata.cpp
+	"WeatherData.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690727553 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\bst.cpp
+	"BST.h"
+	"WeatherData.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690727553 c:\users\yinzh\desktop\assignment2 (ash)\assignment2\bst.h
+	<vector>
+	<map>
+
+1690741096 c:\users\yinzh\desktop\assignment2 (ash)\assignment2\weatherdata.h
+	<vector>
+	<string>
+	"BST.h"
+
+1690727553 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\weatherdata.cpp
+	"WeatherData.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690740836 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+	"WeatherData.h"
+	"BST.h"
+	"Menu.h"
+
+1690728786 c:\users\yinzh\desktop\assignment2 (ash)\assignment2\menu.h
+	<iostream>
+	"WeatherData.h"
+
+1690728913 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\menu.cpp
+	"Menu.h"
+
+1690740512 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\dataoperations.cpp
+
+1690740512 source:c:\users\yinzh\desktop\assignment2 (ash)\assignment2\datastorage.cpp
+
+1690783794 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\bst.cpp
+	"BST.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690785940 c:\users\yinzh\desktop\assignment2 (current)\assignment2\bst.h
+	"DataLoader.h"
+
+1690784970 c:\users\yinzh\desktop\assignment2 (current)\assignment2\weatherdata.h
+	<ctime>
+	<vector>
+	<string>
+	"BST.h"
+	<ctime>
+
+1690740512 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\dataoperations.cpp
+
+1690740512 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\datastorage.cpp
+
+1690783544 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+	"WeatherData.h"
+	"Menu.h"
+
+1690785249 c:\users\yinzh\desktop\assignment2 (current)\assignment2\menu.h
+	<iostream>
+	"WeatherData.h"
+
+1690783827 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\weatherdata.cpp
+	"WeatherData.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<limits>
+
+1690784686 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\menu.cpp
+	"Menu.h"
+
+1690785740 c:\users\yinzh\desktop\assignment2 (current)\assignment2\dataloader.h
+	<vector>
+	<map>
+
+1690783827 source:c:\users\yinzh\desktop\assignment2 (current)\assignment2\dataloader.cpp
+	"DataLoader.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1690810995 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\dataloader.cpp
+	"DataLoader.h"
+
+1690805075 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\dataloader.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+	<map>
+
+1690805251 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+	"Test.h"
+	"WeatherData.h"
+	"Menu.h"
+
+1690805146 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\weatherdata.h
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<limits>
+	"DataProcessor.h"
+
+1690810813 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\bst.h
+
+1690785249 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\menu.h
+	<iostream>
+	"WeatherData.h"
+
+1690805112 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\menu.cpp
+	"Menu.h"
+
+1690810075 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\bst.cpp
+	"bst.h"
+
+1690805145 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\weatherdata.cpp
+	"WeatherData.h"
+
+1690805038 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\dataprocessor.h
+	"DataLoader.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690805038 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\dataprocessor.cpp
+	"DataProcessor.h"
+
+1690803643 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\test.cpp
+	"Test.h"
+	<iostream>
+
+1690806205 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2\test.h
+	<iostream>
+	<string>
+	<vector>
+	"WeatherData.h"
+
+1690805040 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\dataprocessor.cpp
+	"DataProcessor.h"
+
+1690805040 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\dataprocessor.h
+	"DataLoader.h"
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1690805076 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\dataloader.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+	<map>
+
+1690805252 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+	"Test.h"
+	"WeatherData.h"
+	"Menu.h"
+
+1690806206 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\test.h
+	<iostream>
+	<string>
+	<vector>
+	"WeatherData.h"
+
+1690805148 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\weatherdata.h
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<limits>
+	"DataProcessor.h"
+
+1690785250 c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\menu.h
+	<iostream>
+	"WeatherData.h"
+
+1690805114 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\menu.cpp
+	"Menu.h"
+
+1690805146 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\weatherdata.cpp
+	"WeatherData.h"
+
+1690810996 source:c:\users\yinzh\desktop\assignment2 (yin_zhanpeng)\assignment2 (yin_zhanpeng)\assignment2\dataloader.cpp
+	"DataLoader.h"
+

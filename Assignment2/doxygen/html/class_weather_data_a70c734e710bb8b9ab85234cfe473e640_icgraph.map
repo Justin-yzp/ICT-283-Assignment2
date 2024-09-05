@@ -1,0 +1,10 @@
+<map id="WeatherData::CalculateAverage" name="WeatherData::CalculateAverage">
+<area shape="rect" id="node1" title="Calculate the average of a vector of values." alt="" coords="844,107,1051,133"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a8ac06a32d094a84a563d01d779e074e0" title="Calculate and print the Sample Pearson Correlation Coefficient (sPCC) between wind speed and solar ra..." alt="" coords="592,5,788,32"/>
+<area shape="rect" id="node5" href="$class_weather_data.html#a078589fe5dbbbdf691d79de21647b49f" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="584,158,796,199"/>
+<area shape="rect" id="node6" href="$class_weather_data.html#aa3ae4d5cbfe9c39fa0452c7232be3883" title="Print the average temperature and standard deviation for each month for a given year." alt="" coords="347,57,526,98"/>
+<area shape="rect" id="node7" href="$class_weather_data.html#ae6072b404d5ecad2c0340a883ba03adb" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="347,122,526,163"/>
+<area shape="rect" id="node8" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="337,188,536,215"/>
+<area shape="rect" id="node3" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,97,289,124"/>
+<area shape="rect" id="node4" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,97,91,124"/>
+</map>

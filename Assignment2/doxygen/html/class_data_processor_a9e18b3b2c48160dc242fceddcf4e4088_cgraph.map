@@ -1,0 +1,7 @@
+<map id="DataProcessor::WriteDataToFile" name="DataProcessor::WriteDataToFile">
+<area shape="rect" id="node1" title="Write wind speed, temperature, and solar radiation data for each month of a specified year to a CSV f..." alt="" coords="5,100,180,141"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#ad3f3ac3408414c66bebcdb450f17dd6c" title="Calculate the average of a vector of values." alt="" coords="246,5,417,47"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#a1a688ff17ef013bf7b362c05697c8d51" title="Calculate the total of a vector of values." alt="" coords="246,71,417,112"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#ad8c7b4be8c05766ec86548c90494dd72" title="Get the month name based on its index (1&#45;12)." alt="" coords="228,137,435,163"/>
+<area shape="rect" id="node5" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="253,187,410,214"/>
+</map>

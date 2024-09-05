@@ -1,0 +1,4 @@
+<map id="Menu::DisplayMenu" name="Menu::DisplayMenu">
+<area shape="rect" id="node1" title="Display the menu options to the user and ask for their choice." alt="" coords="139,5,276,32"/>
+<area shape="rect" id="node2" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,5,91,32"/>
+</map>

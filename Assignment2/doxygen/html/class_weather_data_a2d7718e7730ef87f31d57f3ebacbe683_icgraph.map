@@ -1,0 +1,6 @@
+<map id="WeatherData::GetCurrentYear" name="WeatherData::GetCurrentYear">
+<area shape="rect" id="node1" title="Get the current year from the system time." alt="" coords="584,5,780,32"/>
+<area shape="rect" id="node2" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,5,289,32"/>
+<area shape="rect" id="node4" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="337,31,536,57"/>
+<area shape="rect" id="node3" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,5,91,32"/>
+</map>

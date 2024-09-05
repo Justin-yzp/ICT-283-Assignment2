@@ -1,0 +1,7 @@
+<map id="WeatherData::PrintAverageWindSpeed" name="WeatherData::PrintAverageWindSpeed">
+<area shape="rect" id="node1" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="5,62,184,104"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a70c734e710bb8b9ab85234cfe473e640" title="Calculate the average of a vector of values." alt="" coords="492,11,699,38"/>
+<area shape="rect" id="node3" href="$class_weather_data.html#a078589fe5dbbbdf691d79de21647b49f" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="232,33,444,74"/>
+<area shape="rect" id="node4" href="$class_weather_data.html#a8ad51a569e62121140f2adea65ea75ac" title="Get the month name based on its index (1&#45;12)." alt="" coords="239,99,437,126"/>
+<area shape="rect" id="node5" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="259,150,417,176"/>
+</map>

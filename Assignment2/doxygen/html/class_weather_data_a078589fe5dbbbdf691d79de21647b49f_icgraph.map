@@ -1,0 +1,8 @@
+<map id="WeatherData::CalculateStandardDeviation" name="WeatherData::CalculateStandardDeviation">
+<area shape="rect" id="node1" title="Calculate the sample standard deviation of a vector of MonthData objects based on a specific member f..." alt="" coords="584,71,796,112"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#aa3ae4d5cbfe9c39fa0452c7232be3883" title="Print the average temperature and standard deviation for each month for a given year." alt="" coords="347,5,526,47"/>
+<area shape="rect" id="node5" href="$class_weather_data.html#ae6072b404d5ecad2c0340a883ba03adb" title="Print the average wind speed and standard deviation for a specified month for a given year." alt="" coords="347,71,526,112"/>
+<area shape="rect" id="node6" href="$class_weather_data.html#a408938f063d58e7e00e2245744acc1e8" title="Write wind speed, temperature, and solar radiation data to a CSV file." alt="" coords="337,137,536,163"/>
+<area shape="rect" id="node3" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,78,289,105"/>
+<area shape="rect" id="node4" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,78,91,105"/>
+</map>

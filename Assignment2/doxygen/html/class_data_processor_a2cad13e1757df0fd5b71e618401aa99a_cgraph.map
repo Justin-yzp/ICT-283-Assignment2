@@ -1,0 +1,7 @@
+<map id="DataProcessor::PrintAverageWindSpeed" name="DataProcessor::PrintAverageWindSpeed">
+<area shape="rect" id="node1" title="Print the average wind speed and standard deviation for a specified month and year to the console." alt="" coords="5,64,195,105"/>
+<area shape="rect" id="node2" href="$class_data_processor.html#ad3f3ac3408414c66bebcdb450f17dd6c" title="Calculate the average of a vector of values." alt="" coords="497,5,668,47"/>
+<area shape="rect" id="node3" href="$class_data_processor.html#af94987f5cff2fb68393795d1b595bad7" title="Calculate the sample standard deviation of a vector of values." alt="" coords="261,35,431,76"/>
+<area shape="rect" id="node4" href="$class_data_processor.html#ad8c7b4be8c05766ec86548c90494dd72" title="Get the month name based on its index (1&#45;12)." alt="" coords="243,101,449,127"/>
+<area shape="rect" id="node5" href="$class_data_processor.html#abe60eb8e7b6e2ac4e0bd9f6be9d1c3dc" title="Search for data by month and year." alt="" coords="267,151,425,178"/>
+</map>

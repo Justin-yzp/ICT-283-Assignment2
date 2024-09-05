@@ -1,0 +1,7 @@
+<map id="DataProcessor::GetData" name="DataProcessor::GetData">
+<area shape="rect" id="node1" title="Get the map that contains all weather data." alt="" coords="581,31,745,57"/>
+<area shape="rect" id="node2" href="$class_weather_data.html#a8ac06a32d094a84a563d01d779e074e0" title="Calculate and print the Sample Pearson Correlation Coefficient (sPCC) between wind speed and solar ra..." alt="" coords="337,5,533,32"/>
+<area shape="rect" id="node5" href="$class_weather_data.html#a4b0abdd8172725328f015d79d9da8101" title="Check if a given year is valid (i.e. within the range of available data)." alt="" coords="349,56,521,83"/>
+<area shape="rect" id="node3" href="$class_menu.html#ac042dacd97993400d2d6326c8de25cfa" title="Execute the user&#39;s choice and call the corresponding method from the WeatherData object." alt="" coords="139,5,289,32"/>
+<area shape="rect" id="node4" href="$class_menu.html#ab15fc601495a11889632bfc0649885e6" title="Run the main loop of the program, asking for the year and the menu choice until the user exits." alt="" coords="5,5,91,32"/>
+</map>
